@@ -3,7 +3,7 @@
 A Telegram Scheduler Bot created in Python.<br/>
 This is a bot capable of scheduling appointment.
 </br>
-<img src="https://github.com/kaikiat/telegram-scheduler-bot/blob/master/images/start_chatting.png" height="1000px" width="500px"/>
+<img src="https://github.com/kaikiat/telegram-scheduler-bot/blob/master/images/start_chatting.png" height="1280px" width="960px"/>
 
 # How to get started ?
 
