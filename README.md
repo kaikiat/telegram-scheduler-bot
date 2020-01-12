@@ -3,15 +3,16 @@
 A Telegram Scheduler Bot created in Python.<br/>
 This is a bot capable of scheduling appointment.
 <br/>
-<!--- just --->
+<!--- /start --->
+### 1)
 <img src="https://github.com/kaikiat/telegram-scheduler-bot/blob/master/images/start_chatting.png" height="720px" width="631px" alt="test"/>
 <br/>
-[](Comment text goes here)
+<!--- Choosing a Service --->
 <img src="https://raw.githubusercontent.com/kaikiat/telegram-scheduler-bot/master/images/start_booking.png" height="720px" width="631px"/>
 <br/>
-[](Comment text goes here)
+<!--- just --->
 <img src="https://github.com/kaikiat/telegram-scheduler-bot/blob/master/images/email_address.png" height="720px" width="631px"/>
-[](Comment text goes here)
+<!--- just --->
 <img src="https://raw.githubusercontent.com/kaikiat/telegram-scheduler-bot/master/images/verifcation_on_g_calednar.png" height="720px" width="631px"/>
 
 # How to get started ?
