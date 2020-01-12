@@ -26,7 +26,6 @@ This is a bot capable of scheduling appointment.
 
 <br/></br>
 <!--- Part 2 --->
-## How to get started ?
 # How to get started ?
 
 ## 1)Create a new bot via Bot Father and keep the api_key
