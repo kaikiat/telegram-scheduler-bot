@@ -23,7 +23,6 @@ def getLastMessage():
     last_msg=data['result'][len(data['result'])-1]['message']['text']
     chat_id=data['result'][len(data['result'])-1]['message']['chat']['id']
     update_id=data['result'][len(data['result'])-1]['update_id']
-    print(len(data['result']))
     if len(data['result']) < 100:
         return last_msg,chat_id,update_id
     else:
@@ -96,7 +95,7 @@ def sendInlineMessageForBookingTime(chat_id):
     response = requests.get(url)
     return response
 
-#TRY AND EXCEPT REMOVED (FOR NEWLY CREATED BOT)
+
 def run():
     update_id_for_booking_of_time_slot=''
     prev_last_msg,chat_id,prev_update_id=getLastMessage()
