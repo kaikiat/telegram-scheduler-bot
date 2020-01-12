@@ -1,7 +1,6 @@
 # telegram-scheduler-bot
 <br/>
 <br/>
-<br/>
 A Telegram Scheduler Bot created in Python.
 <br/>
 This is a bot capable of scheduling appointment
@@ -14,5 +13,6 @@ Link : https://t.me/botfather
 <br/>
 Change
 <br/>
-`api_key=<your_api_key>`
+`api_key=your_api_key`
+
 
