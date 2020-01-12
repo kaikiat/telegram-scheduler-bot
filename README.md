@@ -1,7 +1,7 @@
 # telegram-scheduler-bot
 </br>
 A Telegram Scheduler Bot created in Python.
-</br>
+\n
 This is a bot capable of scheduling appointment.
 
 
@@ -9,7 +9,7 @@ This is a bot capable of scheduling appointment.
 # How to get started ?
 
 ## 1)Create a new bot via Bot Father and keep the api_key
-</br></br>Link : <https://t.me/botfather>
+Link : <https://t.me/botfather>
 
 ## 2)In main.py,change
 `api_key=your_api` </br> </br>
