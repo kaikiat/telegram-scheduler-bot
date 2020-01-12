@@ -1,7 +1,6 @@
 # telegram-scheduler-bot
 </br>
-A Telegram Scheduler Bot created in Python.
-\n
+A Telegram Scheduler Bot created in Python.\
 This is a bot capable of scheduling appointment.
 
 
