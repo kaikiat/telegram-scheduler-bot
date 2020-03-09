@@ -3,8 +3,11 @@ import datetime
 import json
 from scheduler import book_timeslot
 import re 
+#create a python file called api_key 
+#that contains a dictionary api={"api_key":"your_api_key"}
+import api_key
+api_key=api_key.api['api_key']
 
-api_key='your_api_key'
 
 
 def check_email(email):
